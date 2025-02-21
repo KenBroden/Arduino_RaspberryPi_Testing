@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "$Arduino_RaspberryPi_Testing/**",
+                "/usr/include",
+                "/usr/include/sys",
+                "$Arduino_RaspberryPi_Testing",
+                "/C:/Users/kenbr/OneDrive/Desktop/Pi_Arduino/Arduino_RaspberryPi_Testing" 
+
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
