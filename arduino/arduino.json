@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "arduino/LED_Blink.ino",
+    "port": "COM3",
+    "output": "build"
+}
